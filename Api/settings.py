@@ -127,4 +127,4 @@ CORS_ALLOW_CREDENTIALS = True
 #     'https://119.160.59.13',
 # ]
 ## for csrf
-CSRF_TRUSTED_ORIGINS = ['https://your-domain.com']
+CSRF_TRUSTED_ORIGINS = ['https://app2-production-6498.up.railway.app/']
