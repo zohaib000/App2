@@ -126,5 +126,5 @@ CORS_ALLOW_CREDENTIALS = True
 #     'http://localhost:8000',
 #     'https://119.160.59.13',
 # ]
-## for csrf
-CSRF_TRUSTED_ORIGINS = ['https://app2-production-6498.up.railway.app/']
+
+CSRF_TRUSTED_ORIGINS = ['https://app2-production-5000.up.railway.app']
